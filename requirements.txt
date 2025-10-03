@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn[standard]
+pydantic
+jsonschema
+boto3
+psycopg2-binary
